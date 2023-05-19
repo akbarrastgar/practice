@@ -1,7 +1,11 @@
 in the name of god
  salam
  i am akbar
+<<<<<<< HEAD
  im live n iran
+=======
+ amir arslan
+>>>>>>> c5f84e3feba0b0dddc2aff6860fc2e82f254f139
  
  
  
